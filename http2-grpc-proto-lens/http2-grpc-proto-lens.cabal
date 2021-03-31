@@ -7,7 +7,7 @@ cabal-version: 1.12
 -- hash: 57a4f4c88bc0fead3bcfeb0a5ceb013176d1102a131d797f0d2273d03db1c760
 
 name:           http2-grpc-proto-lens
-version:        0.1.0.0
+version:        0.1.0.1
 synopsis:       Encoders based on `proto-lens` for gRPC over HTTP2.
 description:    Please see the README on GitHub at <https://github.com/haskell-grpc-native/http2-grpc-haskell/blob/master/http2-grpc-proto-lens/README.md>
 category:       Network
